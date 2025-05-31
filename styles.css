@@ -4,6 +4,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    background-color: hsl(0, 0%, 99%);
 }
 #calculator{
     font-family: Arial, Helvetica, sans-serif;
